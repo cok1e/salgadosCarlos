@@ -1,0 +1,12 @@
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\obj\Debug\programa.csproj.AssemblyReference.cache
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\obj\Debug\programa.csproj.SuggestedBindingRedirects.cache
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\obj\Debug\programa.bem_Vindo.resources
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\obj\Debug\programa.Form1.resources
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\obj\Debug\programa.Properties.Resources.resources
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\obj\Debug\programa.csproj.GenerateResource.cache
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\obj\Debug\programa.csproj.CoreCompileInputs.cache
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\bin\Debug\programa.exe.config
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\bin\Debug\programa.exe
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\bin\Debug\programa.pdb
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\obj\Debug\programa.exe
+C:\Users\christian.knunes\source\repos\cok1e\salgadosCarlos\programa\programa\obj\Debug\programa.pdb
